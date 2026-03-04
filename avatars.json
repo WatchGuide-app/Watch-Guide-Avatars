@@ -4,5 +4,11 @@
     "name": "Sherlock Holmes",
     "category": "Detectives",
     "image": "./avatars/holmes.png"
+  },
+  {
+    "id": "zeus",
+    "name": "Zeus",
+    "category": "Mythical",
+    "image": "./avatars/zeus.png"
   }
 ]
