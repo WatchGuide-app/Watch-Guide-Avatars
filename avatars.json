@@ -1,7 +1,7 @@
 [
   {
     "id": "holmes",
-    "name": "Sherlock Holmes",
+    "name": "Sherlock",
     "category": "Detectives",
     "image": "./avatars/holmes.png"
   },
@@ -10,5 +10,17 @@
     "name": "Zeus",
     "category": "Mythical",
     "image": "./avatars/zeus.png"
+  },
+  {
+    "id": "tinker",
+    "name": "Tinkerbell",
+    "category": "Children Books",
+    "image": "./avatars/tinker.png"
+  },
+  {
+    "id": "medusa",
+    "name": "Medusa",
+    "category": "Mythical",
+    "image": "./avatars/medusa.png"
   }
 ]
