@@ -27,6 +27,6 @@
     "id": "alice",
     "name": "Alice",
     "category": "Literature",
-    "image": "./avatars/alice.png"
+    "image": "https://raw.githubusercontent.com/WatchGuide-app/Watch-Guide-Avatars/main/avatars/alice.png"
   }
 ]
