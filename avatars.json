@@ -20,7 +20,13 @@
   {
     "id": "medusa",
     "name": "Medusa",
-    "category": "Mythical",
+    "category": "Mythincal",
     "image": "./avatars/medusa.png"
+  },
+  {
+    "id": "alice",
+    "name": "Alice",
+    "category": "Literature",
+    "image": "./avatars/alice.png"
   }
 ]
