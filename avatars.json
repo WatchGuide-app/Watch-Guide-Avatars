@@ -12,21 +12,15 @@
     "image": "./avatars/zeus.png"
   },
   {
-    "id": "tinker",
-    "name": "Tinkerbell",
-    "category": "Children Books",
-    "image": "./avatars/tinker.png"
-  },
-  {
     "id": "medusa",
     "name": "Medusa",
     "category": "Mythincal",
     "image": "./avatars/medusa.png"
   },
   {
-    "id": "alice",
-    "name": "Alice",
+    "id": "robinhood",
+    "name": "Robin Hood",
     "category": "Children Books",
-    "image": "./avatars/alice.png"
+    "image": "./avatars/robin.png"
   }
 ]
