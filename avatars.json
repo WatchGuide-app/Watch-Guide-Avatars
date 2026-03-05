@@ -22,5 +22,11 @@
     "name": "Robin Hood",
     "category": "Medieval",
     "image": "./avatars/robin.png"
+  },
+  {
+    "id": "airboy",
+    "name": "Airboy",
+    "category": "Superheroes",
+    "image": "./avatars/airboy.png"
   }
 ]
