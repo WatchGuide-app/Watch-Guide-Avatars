@@ -34,5 +34,11 @@
     "name": "Captain Battle",
     "category": "Superheroes",
     "image": "./avatars/Captain Battle.png"
+  },
+  {
+    "id": "nikola-tesla",
+    "name": "Nikola Tesla",
+    "category": "Scientists",
+    "image": "./avatars/Nikola Tesla.png"
   }
 ]
