@@ -28,5 +28,11 @@
     "name": "Airboy",
     "category": "Superheroes",
     "image": "./avatars/airboy.png"
+  },
+  {
+    "id": "captain-battle",
+    "name": "Captain Battle",
+    "category": "Superheroes",
+    "image": "./avatars/Captain Battle.png"
   }
 ]
