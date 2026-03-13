@@ -40,5 +40,11 @@
     "name": "Nikola Tesla",
     "category": "Scientists",
     "image": "./avatars/Nikola Tesla.png"
+  },
+  {
+    "id": "amelia-earhart",
+    "name": "Amelia Earhart",
+    "category": "Adventurers",
+    "image": "./avatars/Amelia Earhart.png"
   }
 ]
