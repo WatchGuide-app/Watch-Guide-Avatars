@@ -1,0 +1,164 @@
+[
+  {
+    "id": "raffles",
+    "name": "Raffles",
+    "category": "Detectives & Rogues",
+    "image": "./avatars/raffles.png"
+  },
+  {
+    "id": "rumpelstiltskin",
+    "name": "Rumpelstiltskin",
+    "category": "Fairy Tales",
+    "image": "./avatars/rumpelstiltskin.png"
+  },
+  {
+    "id": "baba-yaga",
+    "name": "Baba Yaga",
+    "category": "Fairy Tales",
+    "image": "./avatars/baba-yaga.png"
+  },
+  {
+    "id": "the-pied-piper",
+    "name": "The Pied Piper",
+    "category": "Fairy Tales",
+    "image": "./avatars/the-pied-piper.png"
+  },
+  {
+    "id": "puss-in-boots",
+    "name": "Puss in Boots",
+    "category": "Fairy Tales",
+    "image": "./avatars/puss-in-boots.png"
+  },
+  {
+    "id": "pinocchio",
+    "name": "Pinocchio",
+    "category": "Fairy Tales",
+    "image": "./avatars/pinocchio.png"
+  },
+  {
+    "id": "the-snow-queen",
+    "name": "The Snow Queen",
+    "category": "Fairy Tales",
+    "image": "./avatars/the-snow-queen.png"
+  },
+  {
+    "id": "captain-nemo",
+    "name": "Captain Nemo",
+    "category": "Adventure",
+    "image": "./avatars/captain-nemo.png"
+  },
+  {
+    "id": "long-john-silver",
+    "name": "Long John Silver",
+    "category": "Adventure",
+    "image": "./avatars/long-john-silver.png"
+  },
+  {
+    "id": "dartagnan",
+    "name": "D’Artagnan",
+    "category": "Adventure",
+    "image": "./avatars/dartagnan.png"
+  },
+  {
+    "id": "don-quixote",
+    "name": "Don Quixote",
+    "category": "Adventure",
+    "image": "./avatars/don-quixote.png"
+  },
+  {
+    "id": "sinbad",
+    "name": "Sinbad",
+    "category": "Adventure",
+    "image": "./avatars/sinbad.png"
+  },
+  {
+    "id": "aladdin",
+    "name": "Aladdin",
+    "category": "Adventure",
+    "image": "./avatars/aladdin.png"
+  },
+  {
+    "id": "ali-baba",
+    "name": "Ali Baba",
+    "category": "Adventure",
+    "image": "./avatars/ali-baba.png"
+  },
+  {
+    "id": "gulliver",
+    "name": "Gulliver",
+    "category": "Adventure",
+    "image": "./avatars/gulliver.png"
+  },
+  {
+    "id": "frankensteins-creature",
+    "name": "Frankenstein’s Creature",
+    "category": "Monsters & Gothic",
+    "image": "./avatars/frankensteins-creature.png"
+  },
+  {
+    "id": "dracula",
+    "name": "Dracula",
+    "category": "Monsters & Gothic",
+    "image": "./avatars/dracula.png"
+  },
+  {
+    "id": "dr-jekyll-mr-hyde",
+    "name": "Dr Jekyll & Mr Hyde",
+    "category": "Monsters & Gothic",
+    "image": "./avatars/dr-jekyll-mr-hyde.png"
+  },
+  {
+    "id": "ichabod-crane",
+    "name": "Ichabod Crane",
+    "category": "Monsters & Gothic",
+    "image": "./avatars/ichabod-crane.png"
+  },
+  {
+    "id": "the-headless-horseman",
+    "name": "The Headless Horseman",
+    "category": "Monsters & Gothic",
+    "image": "./avatars/the-headless-horseman.png"
+  },
+  {
+    "id": "the-phantom-of-the-opera",
+    "name": "The Phantom of the Opera",
+    "category": "Monsters & Gothic",
+    "image": "./avatars/the-phantom-of-the-opera.png"
+  },
+  {
+    "id": "alice",
+    "name": "Alice",
+    "category": "Wonderland & Oz",
+    "image": "./avatars/alice.png"
+  },
+  {
+    "id": "the-mad-hatter",
+    "name": "The Mad Hatter",
+    "category": "Wonderland & Oz",
+    "image": "./avatars/the-mad-hatter.png"
+  },
+  {
+    "id": "the-cheshire-cat",
+    "name": "The Cheshire Cat",
+    "category": "Wonderland & Oz",
+    "image": "./avatars/the-cheshire-cat.png"
+  },
+  {
+    "id": "dorothy",
+    "name": "Dorothy",
+    "category": "Wonderland & Oz",
+    "image": "./avatars/dorothy.png"
+  },
+  {
+    "id": "the-tin-man",
+    "name": "The Tin Man",
+    "category": "Wonderland & Oz",
+    "image": "./avatars/the-tin-man.png"
+  },
+  {
+    "id": "the-scarecrow",
+    "name": "The Scarecrow",
+    "category": "Wonderland & Oz",
+    "image": "./avatars/the-scarecrow.png"
+  }
+]

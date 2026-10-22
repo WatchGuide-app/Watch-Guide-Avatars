@@ -1,50 +1,80 @@
 [
   {
     "id": "holmes",
-    "name": "Sherlock",
-    "category": "Detectives",
+    "name": "Sherlock Holmes",
+    "category": "Detectives & Rogues",
     "image": "./avatars/holmes.png"
+  },
+  {
+    "id": "dr-watson",
+    "name": "Dr Watson",
+    "category": "Detectives & Rogues",
+    "image": "./avatars/dr-watson.png"
+  },
+  {
+    "id": "auguste-dupin",
+    "name": "Auguste Dupin",
+    "category": "Detectives & Rogues",
+    "image": "./avatars/auguste-dupin.png"
+  },
+  {
+    "id": "arsene-lupin",
+    "name": "Arsène Lupin",
+    "category": "Detectives & Rogues",
+    "image": "./avatars/arsene-lupin.png"
+  },
+  {
+    "id": "robinhood",
+    "name": "Robin Hood",
+    "category": "Detectives & Rogues",
+    "image": "./avatars/robin.png"
   },
   {
     "id": "zeus",
     "name": "Zeus",
-    "category": "Mythical",
+    "category": "Myths & Gods",
     "image": "./avatars/zeus.png"
   },
   {
     "id": "medusa",
     "name": "Medusa",
-    "category": "Mythical",
+    "category": "Myths & Gods",
     "image": "./avatars/medusa.png"
   },
   {
-    "id": "robinhood",
-    "name": "Robin Hood",
-    "category": "Medieval",
-    "image": "./avatars/robin.png"
+    "id": "athena",
+    "name": "Athena",
+    "category": "Myths & Gods",
+    "image": "./avatars/athena.png"
   },
   {
-    "id": "airboy",
-    "name": "Airboy",
-    "category": "Superheroes",
-    "image": "./avatars/airboy.png"
+    "id": "thor",
+    "name": "Thor",
+    "category": "Myths & Gods",
+    "image": "./avatars/thor.png"
   },
   {
-    "id": "captain-battle",
-    "name": "Captain Battle",
-    "category": "Superheroes",
-    "image": "./avatars/Captain Battle.png"
+    "id": "anubis",
+    "name": "Anubis",
+    "category": "Myths & Gods",
+    "image": "./avatars/anubis.png"
   },
   {
-    "id": "nikola-tesla",
-    "name": "Nikola Tesla",
-    "category": "Scientists",
-    "image": "./avatars/Nikola Tesla.png"
+    "id": "sun-wukong",
+    "name": "Sun Wukong",
+    "category": "Myths & Gods",
+    "image": "./avatars/sun-wukong.png"
   },
   {
-    "id": "amelia-earhart",
-    "name": "Amelia Earhart",
-    "category": "Adventurers",
-    "image": "./avatars/Amelia Earhart.png"
+    "id": "ra",
+    "name": "Ra",
+    "category": "Myths & Gods",
+    "image": "./avatars/ra.png"
+  },
+  {
+    "id": "little-red-riding-hood",
+    "name": "Little Red Riding Hood",
+    "category": "Fairy Tales",
+    "image": "./avatars/little-red-riding-hood.png"
   }
 ]
